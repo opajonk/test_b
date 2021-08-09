@@ -1,0 +1,4 @@
+apiVersion: v2
+description: Upstream Dependency on One-Step-A
+name: one_step_a
+version: 0.1.0
